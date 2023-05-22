@@ -1,0 +1,128 @@
+ hetvibhora19@gmail.com
+ 09313116452
+ Navsari, Gujarat, India
+ https://github.com/hetvi-1905
+
+Ms. Hetvi Bhora
+
+AI - ML - Data Science Enthusiast
+
+ linkedin.com/in/hetvi-bhora-b73023221
+
+OBJECTIVE
+To Learn New & Innovative technologies & Challenge myself everyday!
+
+EDUCATION
+Jul '20 - Present
+
+B.E Information Technology (pursuing) (2022 -24) | G H
+PATEL College Of Engineering & Technology , Anand
+CPI : 9.42 / 10 ( Till semester 5) | Secured 1st rank in semester 2 , semester 4 , semester 5
+
+Mar '20
+
+XII (State Board) | AB English High School , Navsari
+Percentile: 95.19
+
+Mar '18
+
+X (State Board) | Sir J J High School , Navsari
+Percentile: 99.64
+
+EXPERIENCE
+Mar '23
+
+Machine Learning Intern
+Suven Consultants, India
+Worked on projects related to machine learning and deep learning and implemented the knowledge in various projects thereafter.
+
+Machine Learning Intern
+Feynns Lab Services, Assam, India
+
+Dec '22 - Feb '23
+
+Working on several projects related to AI product/service Prototyping, Market Segmentation using Machine Learning and Data Analysis, AI Product/Service
+Business and Financial Modelling
+
+Full Stack Developer
+MyEplatform, Maharashtra , India
+
+Aug '22 - Nov '22
+
+Worked on various technologies like HTML, CSS , JavaScript, Bootstrap, Angular for front-end and PHP for back-end and developed website through these
+technologies and tools.
+
+PROJECTS
+Malicious URL Detector | Dec 2022
+Python, Flask, Numpy, Pandas, Scikit-learn, Beautiful-soup
+code: https://github.com/hetvi-1905/Malicious-url-detector-19
+Email Generator | Sept 2022
+GPT3,OpenAI API, Numpy, Pandas, Streamlit, Flask
+code : https://github.com/hetvi-1905/EmailGenerator19
+Hospital Management System | Sept 2022
+HTML , CSS , JavaScript , PHP , PhpMyAdmin
+code : https://github.com/hetvi-1905/Hospital_Management_System
+Car Brand Image Classification | Aug 2022
+Deep Learning , CNN , Tensorflow , Resnet50 , Flask
+code : https://github.com/hetvi-1905/Car-Brand-Image-Classification
+
+Email Spam Detector | Aug 2022
+Natural Language Processing , NLTK , TF-IDF , Vectorization , Streamlit
+code : https://github.com/hetvi-1905/Spam_Email_Detection
+Movie Recommendation System | July 2022
+NLP , Text-Preprocessing , Cosine-similarity
+code : https://github.com/hetvi-1905/Movie_Recommendation_System19
+Heart Disease Prediction | June 2022
+Machine Learning , Binary Classification , Flask
+code : https://github.com/hetvi-1905/Heart_Disease_Prediction19
+Car Selling Price Prediction | June 2022
+Machine Learning , Regression , Flask
+code: https://github.com/hetvi-1905/Car_Selling_Price_Prediction
+
+KEY SKILLS
+Creative Thinking
+Problem Solving Abilities
+Analytical Thinking
+Communication Skills
+
+TECHNICAL SKILLS
+AI TECHNOLOGIES
+•Machine Learning • Deep Learning • Image Processing • Computer Vision
+MACHINE LEARNING
+•Tensorflow • Pytorch • Keras •Scikit Learn • Numpy • Pandas • Matplotlib •Seaborn
+WEB DEVELOPMENT
+•HTML • CSS • Bootstrap •Node.js •React.js •Angular.js
+Databases
+• MySQL • PhpMyAdmin
+PROGRAMMING LANGUAGES
+•Python • C++ • C • JavaScript • Java • PHP
+OPERATING SYSTEMS
+•Linux • Windows
+MISCELLANEOUS
+• git • GitHub
+
+VOLUNTEERING EXPERIENCE
+International Society of Automation | Technical Head | Oct 2022 - present
+Indian Society of Technical Education | Technical Head | July 2022 - present
+Code Of Duty Event - Imaze 2022 | Volunteer | April 2022
+
+CERTIFICATION
+Programming for Everybody ( Getting Started with Python) | University of Michigan
+link : https://www.coursera.org/account/accomplishments/certificate/5ZJKLTQ36QHA
+Introduction to Data Science in Python | University of Michigan
+link : https://www.coursera.org/account/accomplishments/certificate/F7JKT2Z4A6VX
+Exploratory Data Analysis for Machine Learning with Honors | IBM
+link : https://www.coursera.org/account/accomplishments/certificate/LL7BZDD8EJE9
+Supervised Machine Learning : Regression | IBM
+link : https://www.coursera.org/account/accomplishments/certificate/ZQXGLK8YPSSM
+Supervise Machine Learning : Classification | IBM
+link : https://www.coursera.org/account/accomplishments/certificate/Q2KDN5H24LD8
+Introduction to Artificial Intelligence (AI) | IBM
+link : https://www.coursera.org/account/accomplishments/certificate/DDRJKLYMTGGR
+
+LANGUAGES
+English | Full Professional Proficiency
+Hindi | National Language , Full Professional Proficiency
+Gujarati | Native Tongue, Full Professional Proficiency
+
+
